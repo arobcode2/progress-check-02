@@ -1,7 +1,8 @@
+#Progress Check 2 This is a prompt I completed as a student at hackreactor.
 ## Progress Check 2
-- [ ] Fork and clone this repo
-- [ ] Write a working implementation of _.min in `min.js`
-- [ ] Push your work to your fork
+- [x] Fork and clone this repo
+- [x] Write a working implementation of _.min in `min.js`
+- [x] Push your work to your fork
 
 ## _.min
 `_.min(list, [iteratee])`
